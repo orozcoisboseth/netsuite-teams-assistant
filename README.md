@@ -3,6 +3,7 @@
 Enterprise self-service assistant that enables Microsoft Teams users to execute NetSuite processes through Copilot Studio, Power Automate, and NetSuite RESTlets.
 <img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f234c72-e78e-41c5-94d1-653cc0ea61e7" />
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/orozcoisboseth/netsuite-teams-assistant)
 
 ## Overview
 
